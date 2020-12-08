@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "venv/bin/python",
+    "workbench.settings.editor": "ui",
+    "workbench.settings.openDefaultSettings": true,
+    "editor.formatOnSave": true,
+    "workbench.settings.useSplitJSON": true
+}
